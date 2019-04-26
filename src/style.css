@@ -1,0 +1,13 @@
+body {
+    background-color: #dee0d6;
+}
+
+.no-rounded {
+    border-radius: 0 !important;
+}
+
+.score-board {
+    background-color: #F54C5B;
+    border-radius: 0 !important;
+    border: none;
+}
