@@ -147,7 +147,6 @@ class Jawab extends Component {
     }
 
     render() {
-        console.log(this.state.highScoreNow);
         return (
             <form className="pt-3" onSubmit={this.checkAnswer.bind(this)}>
                 <div className="input-group input-group-lg mb-3">
