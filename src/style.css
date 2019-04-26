@@ -11,3 +11,12 @@ body {
     border-radius: 0 !important;
     border: none;
 }
+
+.credit-logo {
+    margin: 20px
+}
+
+.credit-container {
+    padding: 20px 0px;
+    text-align: center;
+}
